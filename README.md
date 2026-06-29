@@ -522,9 +522,9 @@ This project was developed by the DEPI Data Engineering Team.
 
 | Name | Role | GitHub |
 | --- | --- | --- |
-| **Ahmed Ayman Soliman** | Project Manager & Data Engineer | [@AhmedAyman](https://www.google.com/search?q=https://github.com/) |
+| **Ahmed Ayman Soliman** | Project Manager & Data Engineer | [@ahmedaymansoliman2004](https://github.com/ahmedaymansoliman2004) |
 | **Rokaya Mohammed Elsaid Ahmed** | Data Engineer | [@RokayaMohammed](https://www.google.com/search?q=https://github.com/) |
-| **May Mohammed Massoud** | Data Engineer | [@MayMassoud](https://www.google.com/search?q=https://github.com/) |
+| **May Mohammed Massoud** | Data Engineer | [@Maimohamed2](https://github.com/Maimohamed2) |
 | **Yousef Loley Abdelrahman** | Data Engineer | [@YousefLoley](https://github.com/youssefloly) |
 
 ---
